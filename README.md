@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @thecoocko
-- 🌱 I’m currently learning javascript
 
+								(っ◔◡◔)っ ♥ Hello! I'm @thecoocko ♥
