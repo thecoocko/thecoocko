@@ -2,5 +2,6 @@
 
 	These languages I try to learn:
 	Python
-	JavaScript(Html+CSS)
+	JavaScript(HTML+CSS)
 	Java
+	
