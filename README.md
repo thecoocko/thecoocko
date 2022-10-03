@@ -1,6 +1,6 @@
 # 																		 											(っ◔◡◔)っ ♥ Hello! I'm @thecoocko ♥
 
-	These languages I try to learn:
+	 I try to learn these languages:
 	Python
 	JavaScript(HTML+CSS)
 	Java
